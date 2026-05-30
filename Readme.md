@@ -60,3 +60,7 @@ Developed an interactive Coffee Shop Sales Dashboard in Microsoft Excel to analy
 Mahesha V P
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
+
+#Dashboard
+<img width="1840" height="860" alt="Sales dashboard" src="https://github.com/user-attachments/assets/7dc63987-4d91-4df9-bedd-d42ea1395f3d" />
+
